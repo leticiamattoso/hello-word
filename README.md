@@ -1,5 +1,5 @@
 # hello-word
-Um simples hello word em lingaugem C.
+Um simples hello word em linguagem C.
 ## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
